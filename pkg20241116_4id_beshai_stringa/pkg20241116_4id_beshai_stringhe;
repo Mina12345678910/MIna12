@@ -1,0 +1,22 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package pkg20241116_4id_beshai_stringa;
+
+
+/**
+ *
+ * @author Mina
+ */
+import java.util.Scanner;
+public class Minastring1 {
+
+           public static void main(String[] args) {
+        // TODO code application logic here
+        
+        stringa parola = new stringa();
+  
+    }
+    }
+
